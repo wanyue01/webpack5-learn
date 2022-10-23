@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/math.js","mappings":"iGAAO,SAASA,EAAKC,EAAGC,GACtB,OAAOD,EAAIC,CACb,C","sources":["webpack://code/./src/js/math.js"],"sourcesContent":["export function mul (x, y) {\r\n  return x * y;\r\n}"],"names":["mul","x","y"],"sourceRoot":""}
